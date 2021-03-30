@@ -1,0 +1,19 @@
+.imagenes {
+    width: 200px;
+    height: 200px;
+}
+
+.imagenes:hover {
+    width: 400px;
+    height: 400px;
+}
+
+h3{
+    margin-top: 0em;
+    margin-bottom: 0em;
+    color: white;
+}
+
+body{
+    background-color: rgb(219, 132, 1);
+}
