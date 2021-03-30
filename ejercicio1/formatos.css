@@ -1,0 +1,8 @@
+.general{
+    font: bold;
+    background-image: url(fondo1.png) fixed;
+}
+
+span .negrita{
+    font: bold;
+}
